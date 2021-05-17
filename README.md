@@ -57,4 +57,4 @@ Anything that's HTML has a bundle.js script pointing to this CDN: (https://cdn.f
 
 ## Authors
 
-* **Tirth Gandhi** - *Initial work* - [davymartinez](https://github.com/TirthGandhi2024)
+* **Tirth Gandhi** - *Initial work* - [tirthgandhi](https://github.com/TirthGandhi2024)
